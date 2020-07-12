@@ -1,0 +1,11 @@
+h1{
+  font-family: cursive;
+  color: #f58742;
+  text-align: center;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTLihzHfXv4Zv3lcwx5DaacRcqu7aZZodNTRg&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
